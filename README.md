@@ -1,4 +1,4 @@
-![unet_multiclass drawio](https://github.com/user-attachments/assets/39ef20a8-2250-4275-83b9-c8c0d0b6f6fb)
+
 # MRI-Brain-Region-Segmentation
 U-Net for brain region Segmentation Task 
 
@@ -11,3 +11,4 @@ However, this task can be challenging due to anatomical variations among individ
 In this context, several software tools are available for MRI image segmentation, such as FreeSurfer, FSL (FMRIB Software Library), and SPM (Statistical Parametric Mapping). However, these tools also have limitations and drawbacks, including complexity for beginners, sensitivity to configuration parameters, high computational power requirements for processing high-resolution 3D MRI images, and difficulties in segmenting 2D data with a limited number of slices.
 
 Moreover, segmenting 2D MRI images can be problematic when the number of MRI slices is limited, as is the case with our patients with MS. Therefore, we have chosen to use the U-Net architecture for brain region segmentation. This architecture is specifically designed for image segmentation, particularly medical images, and has demonstrated exceptional performance in many fields, making it an essential reference for our work.
+![unet_multiclass drawio](https://github.com/user-attachments/assets/39ef20a8-2250-4275-83b9-c8c0d0b6f6fb)
