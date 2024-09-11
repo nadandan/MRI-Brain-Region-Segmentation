@@ -1,3 +1,4 @@
+![unet_multiclass drawio](https://github.com/user-attachments/assets/39ef20a8-2250-4275-83b9-c8c0d0b6f6fb)
 # MRI-Brain-Region-Segmentation
 U-Net for brain region Segmentation Task 
 
